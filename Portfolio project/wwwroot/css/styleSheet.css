@@ -1,0 +1,30 @@
+﻿body {
+}
+.container-fluid{
+    margin: 10px;
+    padding: 10px;
+}
+.view-more {
+    float: right;
+} 
+.view-more a {
+    font-size: 20px;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+.img-edu img{
+    image-resolution:300dpi;
+    width:300px;
+    height:110px;
+}
+
+.school{
+    font-size:large;
+    font-weight:bold;
+}
+.major {
+    font-style:italic;
+}
